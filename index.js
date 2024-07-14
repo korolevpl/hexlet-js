@@ -1,6 +1,2 @@
-import _ from "lodash";
-console.log("Hello, Hexlet!");
-
-console.log(_.capitalize("hello"));
-
-console.log(_.last(["one", "two"]));
+import app from "./src/index.js";
+app();
